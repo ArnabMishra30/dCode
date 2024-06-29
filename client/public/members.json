@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "role": "President",
+    "branch": "Electrical Engineering",
+    "imageUrl": "https://cdn5.vectorstock.com/i/1000x1000/38/44/student-graduate-avatar-icon-vector-11983844.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Jane Smith",
+    "role": "Vice President",
+    "branch": "Mechanical Engineering",
+    "imageUrl": "https://cdn5.vectorstock.com/i/1000x1000/38/44/student-graduate-avatar-icon-vector-11983844.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Alex Johnson",
+    "role": "Treasurer",
+    "branch": "Civil Engineering",
+    "imageUrl": "https://cdn5.vectorstock.com/i/1000x1000/38/44/student-graduate-avatar-icon-vector-11983844.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Thomas Alexander",
+    "role": "Cashier",
+    "branch": "Computer Engineering",
+    "imageUrl": "https://cdn5.vectorstock.com/i/1000x1000/38/44/student-graduate-avatar-icon-vector-11983844.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Emily Brown",
+    "role": "Secretary",
+    "branch": "Chemical Engineering",
+    "imageUrl": "https://cdn5.vectorstock.com/i/1000x1000/38/44/student-graduate-avatar-icon-vector-11983844.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Michael Johnson",
+    "role": "Member",
+    "branch": "Aerospace Engineering",
+    "imageUrl": "https://cdn5.vectorstock.com/i/1000x1000/38/44/student-graduate-avatar-icon-vector-11983844.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Sarah Williams",
+    "role": "Member",
+    "branch": "Biomedical Engineering",
+    "imageUrl": "https://cdn5.vectorstock.com/i/1000x1000/38/44/student-graduate-avatar-icon-vector-11983844.jpg"
+  },
+  {
+    "id": 8,
+    "name": "David Miller",
+    "role": "Member",
+    "branch": "Environmental Engineering",
+    "imageUrl": "https://cdn5.vectorstock.com/i/1000x1000/38/44/student-graduate-avatar-icon-vector-11983844.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Emma Wilson",
+    "role": "Member",
+    "branch": "Industrial Engineering",
+    "imageUrl": "https://cdn5.vectorstock.com/i/1000x1000/38/44/student-graduate-avatar-icon-vector-11983844.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Daniel Taylor",
+    "role": "Member",
+    "branch": "Materials Engineering",
+    "imageUrl": "https://cdn5.vectorstock.com/i/1000x1000/38/44/student-graduate-avatar-icon-vector-11983844.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Olivia Anderson",
+    "role": "Member",
+    "branch": "Petroleum Engineering",
+    "imageUrl": "https://cdn5.vectorstock.com/i/1000x1000/38/44/student-graduate-avatar-icon-vector-11983844.jpg"
+  },
+  {
+    "id": 12,
+    "name": "James Moore",
+    "role": "Member",
+    "branch": "Software Engineering",
+    "imageUrl": "https://cdn5.vectorstock.com/i/1000x1000/38/44/student-graduate-avatar-icon-vector-11983844.jpg"
+  }
+]
